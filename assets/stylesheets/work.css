@@ -1,0 +1,17 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    background-color: #f5f5f5;
+}
+nav{
+    background-color: #f5f5f5;
+}
+.nav-link, .navbar-brand{
+    font-weight: 600 !important;
+    font-size: 20px !important;
+}
+.project_name{
+    color: black;
+    text-decoration: none;
+}
